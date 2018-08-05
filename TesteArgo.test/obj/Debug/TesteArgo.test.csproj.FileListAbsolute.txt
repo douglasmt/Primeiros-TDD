@@ -1,0 +1,40 @@
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.test.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\nunit.framework.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Newtonsoft.Json.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\TesteArgo.exe.config
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\nunit.framework.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\bin\Debug\nunit.framework.xml
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csprojResolveAssemblyReference.cache
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CoreCompileInputs.cache
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.csproj.CopyComplete
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo.test\obj\Debug\TesteArgo.test.pdb

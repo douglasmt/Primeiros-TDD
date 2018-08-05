@@ -1,0 +1,16 @@
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Users\lucas.roselli\Documents\Projetos\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\bin\Debug\Newtonsoft.Json.dll
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CopyComplete
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
