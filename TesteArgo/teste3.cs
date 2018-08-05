@@ -27,7 +27,7 @@ namespace TesteArgo
                     
                     if ((booPrimeira) && (!nome.Substring(intCont, 1).Equals(" ")))
                     {
-                        Console.WriteLine(nome.Substring(intCont, 3));
+                        //Console.WriteLine(nome.Substring(intCont, 3));
                         if (!nome.Substring(intCont, 3).Equals("da "))
                         {
                             strResult += nome.Substring(intCont, 1).ToUpper();
@@ -59,7 +59,7 @@ namespace TesteArgo
                         }
                         tamPalavra += 1;
                         
-                        Console.WriteLine("Char " + intCont + " - " + strResult + " pron: " + tamPalavra);
+                        //Console.WriteLine("Char " + intCont + " - " + strResult + " pron: " + tamPalavra);
                     }
                 }
             }
