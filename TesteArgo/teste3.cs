@@ -59,7 +59,7 @@ namespace TesteArgo
                         }
                         tamPalavra += 1;
                         
-                        Console.WriteLine("Char 1º " + intCont + " - " + strResult + " pron: " + tamPalavra);
+                        Console.WriteLine("Char " + intCont + " - " + strResult + " pron: " + tamPalavra);
                     }
                 }
             }

@@ -14,3 +14,12 @@ C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\
 C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CopyComplete
 C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
 C:\Douglas\0 - CV\TD Company\TesteArgo-20180519T174217Z-001\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\bin\Debug\TesteArgo.exe
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\obj\Debug\TesteArgo.csprojResolveAssemblyReference.cache
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\obj\Debug\TesteArgo.csproj.CopyComplete
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\obj\Debug\TesteArgo.exe
+C:\Visual Studio\TesteArgo-20180519T174217Z-001\ExerciciosTDD\TesteArgo\obj\Debug\TesteArgo.pdb
